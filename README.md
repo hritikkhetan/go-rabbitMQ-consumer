@@ -1,5 +1,5 @@
 # go-rabbitMQ-consumer
-	clone or download the zip folder from green Code dropdown
+	Clone or download the zip folder from green Code dropdown
 
 # Command to run the service
 	Open the terminal
